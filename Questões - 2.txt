@@ -1,0 +1,23 @@
+Questões da Prova
+
+Gerar os Indicadores
+
+Base 1 - Base Principal
+Base 2 - Base Secundária
+
+1) Quantos casos foram excluídos
+2) Quantos casos novos
+3) Quantos casos mudaram de valor 
+4) Aumentou ou diminuiu o valor?
+5) Demonstar a diferença de valor se houver
+
+***Manter as fórmulas utilizadas 
+
+
+Imagine que você é o cliente final (dashboard modernos e arrojados em excel fazem a diferença).
+Apresente como gostaria de ver o resultado (estudo, gráficos, sistema - botões, hiperlink para troca de páginas, ferramenta, macros...)
+
+
+Boa Sorte!!!
+
+   
